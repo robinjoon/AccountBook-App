@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AccountBook</string>
+    <string name="expenditure">expenditure</string>
+    <string name="income">income</string>
+    <string name="balance">balance</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="category">Category</string>
+    <string name="asset">Asset</string>
+    <string name="value">Value</string>
+    <string name="date">Date</string>
+    <string name="memo">Memo</string>
+    <string name="conversion">Conversion</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="name">Name</string>
+    <string name="categoryType">Type</string>
+    <string name="statistics">Statistics</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
